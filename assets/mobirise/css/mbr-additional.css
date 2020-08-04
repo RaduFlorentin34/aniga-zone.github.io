@@ -1129,7 +1129,7 @@ section.lazy-placeholder:after {
 .cid-s6G7CMJ0lB {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/wave-mint-1.png");
 }
 .cid-s6G7CMJ0lB h3 {
   text-align: center;
@@ -1159,4 +1159,12 @@ section.lazy-placeholder:after {
     -webkit-flex-basis: 33%;
     flex-basis: 33%;
   }
+}
+.cid-s6GdpTOXXp {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-color: #26f5af;
+}
+.cid-s6GdpTOXXp P {
+  color: #767676;
 }
