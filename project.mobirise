@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Aniga",
-    "currentPage": "creatori-de-continut.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -47,7 +47,14 @@
     "uniqCompNum": 15,
     "versionPublish": "4.12.4",
     "imageResize": true,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "gdpr": false,
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
@@ -591,9 +598,9 @@
     },
     "creatori-de-continut.html": {
       "settings": {
-        "meta_descr": "Web Page Builder Description",
+        "meta_descr": "Aici se află creatorii de conținut care sunt pe Server-ul nostru.",
         "title": "Creatori de conținut",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1101,9 +1108,9 @@
     },
     "atractii.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
-        "title": "Atracții",
-        "order": 2
+        "meta_descr": "De ce ne-ai alege pe noi.",
+        "title": "De ce pe noi ?",
+        "order": 1
       },
       "components": [
         {
