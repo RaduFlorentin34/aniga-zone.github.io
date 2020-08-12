@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Aniga",
-    "currentPage": "page3.html",
+    "currentPage": "staff.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1632,9 +1632,9 @@
         }
       ]
     },
-    "page3.html": {
+    "staff.html": {
       "settings": {
-        "meta_descr": "Site Generator Description",
+        "meta_descr": "Aici se află oamenii care au grijă ca totul să meargă cum trebuie.",
         "title": "Staff",
         "order": 3
       },
