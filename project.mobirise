@@ -43,7 +43,7 @@
     ],
     "dppsSwitcher": true,
     "imageResize": true,
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/simple3-128x128.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -60,8 +60,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Aniga Zone | Curând.",
+        "meta_descr": "Curând.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
